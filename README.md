@@ -1,2 +1,2 @@
 # Eigen-decomposition
-Linear Algebra and PCA variant (Kernel PCA)
+Linear Algebra & PCA variant (Kernel PCA)
